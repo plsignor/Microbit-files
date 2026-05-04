@@ -1,0 +1,11 @@
+{
+  "name": "storage-blocks",
+  "description": "Simple file storage blocks for micro:bit",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "storage.ts"
+  ],
+  "public": true
+}
